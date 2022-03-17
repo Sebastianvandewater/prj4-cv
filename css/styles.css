@@ -8,17 +8,18 @@
 body {
 	font-family: Oswald, "sans-serif";
 	color: #4F6E76;
-	background-color: #f8f8fc;
+	background-color: #
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .text-aside {
-	color:	#6E522E;
+	color:	#4F6E76;
 }
 
 .header-text {
 	color: #D3E7EE;
 	text-transform: uppercase;
+;
 }
 
 .resume-header {
@@ -30,9 +31,20 @@ body {
 }
 
 .resume-aside {
-	background-color: #ECD59F;
+	background-color: #E3EFF4;
 }
 
+a:link {
+	color: #4F6E76;
+}
+
+a:visited {
+	color: #9B9AF6;
+}
+
+a:hover {
+	color: #9B9AF6;
+}
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
