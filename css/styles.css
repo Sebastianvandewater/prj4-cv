@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Oswald, "sans-serif";
 	color: #4F6E76;
 	background-color: #f8f8fc;
 }
@@ -18,7 +18,7 @@ body {
 
 .header-text {
 	color: #D3E7EE;
-;
+	text-transform: uppercase;
 }
 
 .resume-header {
@@ -44,7 +44,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #4F6E76;
 }
 
 .biography-details li, .skill-list li {
